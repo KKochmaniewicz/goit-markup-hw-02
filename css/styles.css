@@ -1,0 +1,216 @@
+body{
+    font-family: "Roboto", sans-serif;
+    color: #212121;
+}
+.menu{
+    background-color: #FFFFFF;
+    display: block;
+}
+.menu-list{
+    list-style-type: none;
+}
+.menu-list-element{
+    float: left;
+    text-align: center;
+}
+.link{
+   color: #212121;
+   text-decoration: none;
+}
+.link:hover{
+    color: #2196F3;
+}
+.contact-link{
+  color:  #757575;
+  text-decoration: none;
+}
+.contact-link:hover{
+    color: #2196F3; 
+}
+.logo-link{
+    color: #212121;
+    text-decoration: none;
+}
+.logo-web{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1;
+    letter-spacing: 0.03;
+    color: #2196F3;
+    }
+.logo-studio-top{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1;
+    letter-spacing: 0.03;
+    color: #212121;
+    }
+.header{
+    background-color: #2F303A;
+}
+h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.logo-studio-bottom{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1;
+    letter-spacing: 0.03;
+    color: #FFFFFF;
+}
+.button{
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    background: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+
+}
+.order{
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.88;
+}
+.lorem{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 0.875;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+    
+}
+.lorem-description{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.duties{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.67;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+.team{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.67;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;  
+}
+.name{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.1875;
+    text-align: center;
+    letter-spacing: 0.03em;  
+    color: #212121;
+}
+.job{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.1875;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #757575;   
+}
+.address{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+.footer{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #757575;
+    text-decoration: none;  
+}
+.footer:hover{
+    color: #2196F3;
+}
+.category{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+    border: none;
+}
+.category:hover{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    cursor: pointer;
+    background-color: #2196F3;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+}
+.examples{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: #212121;  
+}
+.examples-type{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.88;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
